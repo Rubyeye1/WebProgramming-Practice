@@ -1,0 +1,313 @@
+* {
+    background-color: #CFF3E8;
+}  
+
+.header {
+    position:relative;
+    width: 745px;
+    height: 41px;
+    top: 15px;
+    left: 20px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.PKNU {
+    font-family: "Rubik";
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 41.48px;
+    text-align: left;
+}
+
+.RESEARCH {
+    position: absolute;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.16px;
+    text-align: left;
+    top:6px;
+    right: 310px;
+    color: #FF9907;
+}
+
+.MEMBER{
+    position: absolute;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.16px;
+    text-align: left;
+    top:6px;
+    right: 10px;
+}
+
+.imagediv1{
+    position:relative;
+    width: 745px;
+    height: 400px;
+    top: 30px;
+    left: 10px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.banner1{
+    position:relative;
+    width:100%;
+    height:100%;
+}
+
+.text1 {
+    position:absolute;
+    width: 598px;
+    height: 346px;
+    top: 27px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    text-align :center;
+    background-color: transparent;
+}
+
+.Pukyong {
+    position:relative;
+    gap: 0px;
+    opacity: 0px;
+    color: #FFFFFF;
+    font-family : "Lora";
+    background-color: transparent;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 34.56px;
+    text-align: center;
+}
+
+.Medical {
+    position:relative;
+    color: #FFFFFF;
+    font-family : "Lora";
+    background-color: transparent;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 57.6px;
+    text-align: center;
+}
+
+
+.Welcome {
+    position:relative;
+    color : #FFFFFF;
+    font-family : "Lora";
+    top:30px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25.6px;
+    text-align: left;
+}
+
+.Welcome1{
+    background-color: transparent;
+}
+.Welcome2{
+    background-color: transparent;
+}
+.Welcome3{
+    background-color: transparent;
+}
+
+
+.imagediv2{
+    position:relative;
+    width: 745px;
+    top:50px;
+    text-align:center;
+    left:10px;
+}
+
+.one {
+    position:absolute;
+    left:10px;
+}
+.two {
+    position:absolute;
+    right:10px;
+}
+.three {
+    position:absolute;
+    top:300px;
+    left:10px;
+}
+.four {
+    position:absolute;
+    right:10px;
+    top:300px;
+}
+.five {
+    position:absolute;
+    left:10px;
+    top:600px;
+}
+.six {
+    position:absolute;
+    right:10px;
+    top:600px;
+}
+
+.img1 {
+    width: 340px;
+    height: 221px;
+}
+.img2{
+    width: 340px;
+    height: 221px;
+}
+.img3{
+    width: 340px;
+    height: 221px;
+}
+.img4{
+    width: 340px;
+    height: 221px;
+}
+.img5{
+    width: 340px;
+    height: 221px;
+}
+.img6{
+    width: 340px;
+    height: 221px;
+}
+
+.onetext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+
+}
+.twotext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+.threetext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+.fourtext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+.fivetext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+.sixtext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+
+
+.onetext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.twotext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.threetext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.fourtext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.fivetext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.sixtext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+}
+
+.copyright {
+    position:relative;
+    text-align:center;
+    background: #333333;
+    width: 759px;
+    height: 57px;
+    top:980px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.copyrightClass {
+    position:absolute;
+    font-family: "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: left;
+    top:20px;
+    right:300px;
+    color: #C9C9C9;
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+

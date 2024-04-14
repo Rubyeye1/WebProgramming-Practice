@@ -1,0 +1,413 @@
+* {
+    background-color: #CFF3E8;
+}
+
+.header {
+    position:relative;
+    width: 745px;
+    height: 41px;
+    top: 15px;
+    left: 20px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.PKNU {
+    position:absolute;
+    font-family: "Rubik";
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 41.48px;
+    text-align: left;
+    top:8px;
+    left:20px;
+}
+
+.RESEARCH {
+    position: absolute;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.16px;
+    text-align: left;
+    top:6px;
+    right: 310px;
+    color: #FF9907;
+    display:none;
+}
+
+.MEMBER{
+    position: absolute;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.16px;
+    text-align: left;
+    top:6px;
+    right: 10px;
+    display:none;
+}
+
+.hamburger {
+    position:absolute;
+    display:block;
+    width:40px;
+    height:30px;
+    top:-50px;
+    right:2px;
+    cursor:pointer;
+}
+
+.hamburger span,
+.hamburger span:before,
+.hamburger span:after {
+    display:block;
+    position:absolute;
+    left:0;
+    width:100%;
+    height:5px;
+    background:#2d2d2d;
+}
+
+.hamburger span{
+    top:50%;
+    transform:translateY(-50%, -50%);
+}
+
+.hamburger span:before,
+.hamburger span:after {
+    content:'';
+}
+
+.hamburger span:before {
+    top:-15px;
+}
+.hamburger span:after {
+    top:15px;
+}
+
+.imagediv1{
+    position:relative;
+    width: 568px;
+    height: 350px;
+    top: 40px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.banner1{
+    position:relative;
+    width:100%;
+    height:100%;
+}
+
+.text1 {
+    position:absolute;
+    width: 598px;
+    height: 346px;
+    top: 27px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    text-align :center;
+    background-color: transparent;
+    
+}
+
+.Pukyong {
+    position:relative;
+    color: #FFFFFF;
+    font-family : "Lora";
+    background-color: transparent;
+    width: 330px;
+    height: 31px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30.72px;
+    text-align: center;
+    right:90px;
+
+}
+
+.Medical {
+    position:relative;
+    color: #FFFFFF;
+    font-family : "Lora";
+    background-color: transparent;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 57.6px;
+    text-align: center;
+    width: 328px;
+    height: 58px;
+    gap: 0px;
+    opacity: 0px;
+    right:90px;
+}
+
+
+.Welcome {
+    position:absolute;
+    color : #FFFFFF;
+    font-family : "Lora";
+    top:100px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20.48px;
+    text-align: left;
+
+    width: 500px;
+    height: 180px;
+    right:150px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: transparent;
+}
+
+.Welcome1{
+    background-color: transparent;
+}
+.Welcome2{
+    background-color: transparent;
+}
+.Welcome3{
+    background-color: transparent;
+}
+
+.imagediv2{
+    position:relative;
+    width: 568px;
+    top:40px;
+    text-align:center;
+    left:10px;
+}
+
+
+.one {
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    gap: 0px;
+    opacity: 0px;
+    top:10px;
+    left:33px;
+}
+.two {
+    position:absolute;
+    right:10px;
+    width: 571px;
+    height: 433px;
+    top:320px;
+    left:30px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.three {
+    position:absolute;
+    top:650px;
+    left:10px;
+    width: 568px;
+    height: 432px;
+
+    left:30px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.four {
+    position:absolute;
+    right:10px;
+
+    width: 568px;
+    height: 430px;
+    top:1000px;
+    left:30px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.five {
+    position:absolute;
+    left:10px;
+    width: 568px;
+    height: 432px;
+    top:1320px;
+    left: 30px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.six {
+    position:absolute;
+    width: 568px;
+    height: 433px;
+    top:1670px;
+    left: 30px;
+}
+
+.img1 {
+    width: 570px;
+    height: 250px;
+}
+.img2{
+    width: 570px;
+    height: 250px;
+}
+.img3{
+    width: 570px;
+    height: 250px;
+}
+.img4{
+    width: 570px;
+    height: 250px;
+}
+.img5{
+    width: 570px;
+    height: 250px;
+}
+.img6{
+    width: 570px;
+    height: 250px;
+}
+
+.onetext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+
+}
+.twotext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+.threetext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+.fourtext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+.fivetext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+.sixtext1{
+    font-family : "Lora";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28.16px;
+    text-align: center;
+}
+
+
+.onetext2{
+    font-family : "Lora";
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.twotext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.threetext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.fourtext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.fivetext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+
+}
+.sixtext2{
+    font-family : "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: center;
+    color: #666666;
+}
+
+.copyright {
+    position:relative;
+    text-align:center;
+    background: #333333;
+    top: 2090px;
+    width: 568px;
+    height: 57px;
+    left: 45px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.copyrightClass {
+    position:absolute;
+    font-family: "Lora";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.48px;
+    text-align: left;
+    top:20px;
+    right:210px;
+    color: #C9C9C9;
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
